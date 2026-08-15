@@ -1,4 +1,4 @@
-const CACHE_NAME='budget-app-v1';
+const CACHE_NAME='budget-app-v2';
 const FILES_TO_CACHE=[
   './mon-budget-personnel-3-1.html',
   './manifest.json',
