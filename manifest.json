@@ -2,7 +2,7 @@
   "name": "Seyda Zeynab Budget Personnel",
   "short_name": "Mon Budget",
   "description": "Gérer, planifier et réaliser votre budget personnel",
-  "start_url": "./mon-budget-personnel-3-1.html",
+  "start_url": "./index.html",",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
