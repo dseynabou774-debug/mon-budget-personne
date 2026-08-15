@@ -1,6 +1,6 @@
 const CACHE_NAME='budget-app-v2';
 const FILES_TO_CACHE=[
-  './mon-budget-personnel-3-1.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512-1.png'
